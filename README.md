@@ -10,9 +10,7 @@ The system combines Resume Parsing, TF-IDF Vectorization, Cosine Similarity, Int
 
 🔗 [Live Application](YOUR_DEPLOYMENT_LINK)
 
-## 💻 GitHub Repository
 
-🔗 [Source Code](YOUR_GITHUB_LINK)
 
 ---
 
