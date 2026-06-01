@@ -8,7 +8,7 @@ The system combines Resume Parsing, TF-IDF Vectorization, Cosine Similarity, Int
 
 ## 🌐 Live Demo
 
-🔗 [Live Application](YOUR_DEPLOYMENT_LINK)
+🔗 [Live Application](https://decodelabs-task3-careerai-recommendation-system-44fgevvz8tlgrf.streamlit.app/)
 
 
 
