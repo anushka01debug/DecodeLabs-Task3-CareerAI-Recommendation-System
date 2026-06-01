@@ -1,0 +1,42 @@
+Role,Skills,Category,Avg_Salary,Growth_Rate,Description
+Data Scientist,Python machine learning deep learning tatistics numpy pandas scikit-learn tensorflow pytorch data visualization jupyter sql,Data & AI,$120k,35%,Build predictive models and extract insights from complex datasets
+Machine Learning Engineer,Python tensorflow pytorch machine learning deep learning mlops docker kubernetes model deployment ci/cd,Data & AI,$135k,40%,Design and deploy production-grade ML systems at scale
+AI Research Scientist,python pytorch tensorflow deep learning nlp computer vision research papers mathematics statistics,Data & AI,$145k,38%,Push the boundaries of AI with novel research and publications
+Data Analyst,sql excel python tableau power bi data visualization statistics business intelligence reporting,Data & AI,$75k,25%,Transform raw data into actionable business insights
+Data Engineer,python sql spark hadoop etl airflow kafka bigquery snowflake dbt cloud aws gcp,Data & AI,$115k,32%,Build and maintain data pipelines and infrastructure
+Business Intelligence Developer,sql tableau power bi looker excel python data warehousing etl reporting dashboards,Data & AI,$90k,20%,Create data models and dashboards for business decision-making
+NLP Engineer,python nlp transformers bert gpt huggingface text classification named entity recognition sentiment analysis,Data & AI,$130k,42%,Build systems that understand and generate human language
+Computer Vision Engineer,python opencv tensorflow pytorch deep learning image processing convolutional networks object detection,Data & AI,$128k,38%,Develop systems that interpret and analyze visual data
+MLOps Engineer,python docker kubernetes mlflow airflow ci/cd cloud aws azure model monitoring devops,Data & AI,$125k,45%,Bridge the gap between ML research and production systems
+Quantitative Analyst,python r mathematics statistics machine learning finance trading algorithms optimization,Finance,$140k,22%,Apply mathematical models to financial markets and risk
+Frontend Developer,javascript react html css typescript redux webpack figma responsive design,Web Dev,$95k,22%,Build beautiful and performant user interfaces
+Backend Developer,python node.js java spring rest api sql postgresql mongodb docker microservices,Web Dev,$105k,24%,Design and build server-side systems and APIs
+Full Stack Developer,javascript react node.js python sql html css docker git rest api,Web Dev,$110k,26%,Work across the entire web development stack
+React Developer,javascript react redux hooks typescript jest css html rest api,Web Dev,$100k,28%,Specialize in building modern React applications
+Vue.js Developer,javascript vue.js vuex nuxt typescript html css rest api,Web Dev,$95k,24%,Build reactive and component-based web applications
+Angular Developer,javascript angular typescript rxjs html css rest api unit testing,Web Dev,$98k,20%,Build enterprise-grade single page applications
+Node.js Developer,javascript node.js express rest api mongodb postgresql redis docker,Web Dev,$100k,25%,Build fast and scalable server-side JavaScript applications
+DevOps Engineer,docker kubernetes terraform ansible jenkins ci/cd linux bash aws azure cloud,DevOps,$115k,30%,Automate and optimize development and deployment pipelines
+Cloud Architect,aws azure gcp terraform kubernetes docker microservices security networking devops,Cloud,$145k,35%,Design scalable and resilient cloud infrastructure
+Site Reliability Engineer,kubernetes docker linux bash python monitoring observability ci/cd incident management,DevOps,$130k,33%,Ensure reliability and performance of production systems
+Cybersecurity Analyst,network security penetration testing firewalls linux python vulnerability assessment siem,Security,$100k,31%,Protect systems and networks from cyber threats
+Ethical Hacker,penetration testing kali linux python networking web security burp suite metasploit,Security,$105k,35%,Find vulnerabilities before malicious actors do
+Security Engineer,python linux cryptography network security cloud security identity management zero trust,Security,$120k,33%,Build and maintain secure systems and infrastructure
+Mobile Developer iOS,swift objective-c xcode ios uikit swiftui app store core data,Mobile,$115k,20%,Build native iPhone and iPad applications
+Mobile Developer Android,kotlin java android studio firebase rest api jetpack compose mvvm,Mobile,$110k,22%,Build native Android applications
+React Native Developer,javascript react native redux expo firebase mobile ios android rest api,Mobile,$105k,28%,Build cross-platform mobile apps with React Native
+Flutter Developer,dart flutter firebase rest api state management mobile ios android,Mobile,$108k,32%,Build beautiful cross-platform apps with Flutter
+Blockchain Developer,solidity ethereum web3.js smart contracts defi nft python javascript cryptography,Emerging,$125k,45%,Build decentralized applications on blockchain platforms
+AR/VR Developer,unity c# unreal engine 3d modeling opengl computer vision spatial computing,Emerging,$118k,40%,Create immersive augmented and virtual reality experiences
+Game Developer,c++ unity unreal engine c# game design opengl physics simulation,Gaming,$95k,15%,Design and build interactive games
+Embedded Systems Engineer,c c++ embedded linux rtos microcontrollers hardware iot protocols,Hardware,$105k,18%,Program microcontrollers and embedded systems
+IoT Engineer,python c embedded linux mqtt aws iot azure iot sensors networking protocols,Emerging,$110k,35%,Build connected device systems and IoT platforms
+Product Manager,product strategy roadmap agile scrum user research stakeholder management sql analytics,Product,$120k,20%,Lead product vision and coordinate cross-functional teams
+UX Designer,figma sketch user research wireframing prototyping usability testing css html design systems,Design,$90k,22%,Design user-centered digital experiences
+UI Designer,figma sketch adobe xd typography color theory responsive design component libraries,Design,$85k,20%,Craft visually compelling and functional user interfaces
+Technical Writer,documentation api writing markdown technical communication git developer tools,Content,$75k,12%,Create clear technical documentation for developers
+Database Administrator,sql postgresql mysql oracle mongodb database design performance tuning backup,Data,$90k,10%,Manage and optimize database systems
+QA Engineer,selenium pytest automation testing javascript api testing test planning ci/cd,Quality,$85k,18%,Ensure software quality through systematic testing
+Scrum Master,agile scrum project management jira confluence stakeholder communication,Agile,$100k,18%,Facilitate agile ceremonies and remove team blockers
+Solutions Architect,aws azure gcp microservices docker kubernetes system design architecture patterns,Cloud,$150k,30%,Design end-to-end technical solutions for complex problems
+Platform Engineer,kubernetes terraform helm docker ci/cd linux python cloud infrastructure,DevOps,$125k,35%,Build and maintain the platforms developers build on
