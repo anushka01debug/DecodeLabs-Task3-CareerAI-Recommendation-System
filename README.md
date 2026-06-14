@@ -184,21 +184,6 @@ This enables efficient matching between user profiles and career skill requireme
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-(Add Screenshot Here)
-
-### Career Match Dashboard
-
-(Add Screenshot Here)
-
-### Personalized Roadmap
-
-(Add Screenshot Here)
-
----
 
 ## 🚀 Future Enhancements
 
